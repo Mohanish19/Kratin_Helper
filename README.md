@@ -1,5 +1,5 @@
 # Kratin_Helper
-This is a site for an older people who need help to remember basic things. User can store/add daily tasks and below there is AI HEALTH CHATBOT which will answer all the health related queries of the User.
+Aashray(this site) is for the older people who need help to remember basic things. User can store/add daily tasks and below there is AI HEALTH CHATBOT which will answer all the health related queries of the User.
 
 DESCRIPTION OF CHATBOT : 
 
@@ -8,7 +8,10 @@ This is a chatbot that uses Azure Artificial Intelligence and Azure Bot framewor
 eg. 'Hello' , 'Hi' , 'Nice to meet you' and 'Good morning' can all be mapped to the intention 'Greeting'. Then the answer for this intention is return, such as 'Nice to meet you too'. Apart from this all the health care, fitness related question is answered here.
 
 BELOW IS THE WORKING VIEW OF THE WEBSITE:
+
+
+![Screenshot (110)](https://user-images.githubusercontent.com/91741715/192606016-ac06c427-4962-404c-b1cf-4121c048069a.png)
+
 LINK - https://helperrr.netlify.app/
 
 
-<!-- ![Screenshot (109)](https://user-images.githubusercontent.com/91741715/192605179-3eac5765-27fe-438f-a8d9-400c9a7d46df.png) -->
