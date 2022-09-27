@@ -8,3 +8,4 @@ This is a chatbot that uses Azure Artificial Intelligence and Azure Bot framewor
 eg. 'Hello' , 'Hi' , 'Nice to meet you' and 'Good morning' can all be mapped to the intention 'Greeting'. Then the answer for this intention is return, such as 'Nice to meet you too'. Apart from this all the health care, fitness related question is answered here.
 
 
+![Screenshot (109)](https://user-images.githubusercontent.com/91741715/192605179-3eac5765-27fe-438f-a8d9-400c9a7d46df.png)
