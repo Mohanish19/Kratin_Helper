@@ -1,6 +1,6 @@
 # Kratin_Helper
 
-TECH STACK - HTML, CSS, JAVASCRIPT, MICROSOFT AZURE, AZURE AI, AZURE BOT FRAMEWORK, AZURE CLOUD.
+TECH STACK - HTML, CSS, JAVASCRIPT, MICROSOFT AZURE, AZURE AI, AZURE BOT FRAMEWORK, AZURE QnA MAKER.
 
 
 Aashray(this site) is for the older people who need help to remember basic things. User can store/add daily tasks and below there is AI HEALTH CHATBOT which will answer all the health related queries of the User.
